@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kumar Ayush's Internship
+title: Kumar Ayush's Internship at Université du Luxembourg '17
 description: "Université du Luxembourg"
 categories: internship
 tags: 
@@ -15,7 +15,7 @@ featured: true
 published: true
 author_name: Kumar Ayush
 author_email: cheekujodhpur@gmail.com
-author_image: cheeku.jpg
+author_image: .././iamges/cheeku.jpg
 author_description: I like astrophysics. I like scientific computation. I like HPC. I like ML. I also like cooking and travel. You are very good person.
 ---
 
@@ -37,7 +37,7 @@ The group is led by Prof. Thomas Schmidt, and I would quote his homepage
 
 # About the Work
 #### My Work Space
-![My Work Space](.././images/cheeku_intern_pic.jpg "My Work Space")
+![My Work Space](.././images/cheeku_intern_pic.jpg "My Work Space"){:style="height: 500px;"}
 
 My broad area of specialization was Non-Equilibrium Transport. I studied the transport of non-interacting fermions through a quantum dot in tunneling contact with two (or more) reservoirs at varying chemical potentials. More specificially, I attempted to calculate time-dependent current-current correlation or "noise" for the current flowing through the system.
 
