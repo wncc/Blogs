@@ -15,7 +15,7 @@ featured: true
 published: true
 author_name: Kumar Ayush
 author_email: cheekujodhpur@gmail.com
-author_image: .././iamges/cheeku.jpg
+author_image: http://cheekujodhpur.github.io/images/me_emily.jpg
 author_description: I like astrophysics. I like scientific computation. I like HPC. I like ML. I also like cooking and travel. You are very good person.
 ---
 
@@ -37,7 +37,7 @@ The group is led by Prof. Thomas Schmidt, and I would quote his homepage
 
 # About the Work
 #### My Work Space
-![My Work Space](.././images/cheeku_intern_pic.jpg "My Work Space"){:style="height: 500px;"}
+![My Work Space](https://2.bp.blogspot.com/-K5CH88QcZ0k/WWdvmiDn16I/AAAAAAAAQhc/CdKSLfDGN8QVZFIpzEm45VoZK0ZAhHNrQCLcBGAs/s320/19893900_1421292907947140_658677690_o.jpg "My Work Space"){:style="height: 500px;"}
 
 My broad area of specialization was Non-Equilibrium Transport. I studied the transport of non-interacting fermions through a quantum dot in tunneling contact with two (or more) reservoirs at varying chemical potentials. More specificially, I attempted to calculate time-dependent current-current correlation or "noise" for the current flowing through the system.
 

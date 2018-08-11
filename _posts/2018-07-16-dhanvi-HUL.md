@@ -12,7 +12,7 @@ mathjax: null
 featured: true
 published: true
 author_name: Dhanvi Sreenivasan
-author_image: .././images/dhanvi_pic3.png
+author_image: https://www.aero.iitb.ac.in/satlab/memb_images/Dhanvi_01.jpg
 author_description: Dhanvi Sreenivasan is a senior undergraduate from the Mechanical Department. Coder by appearance, but Mechanical at heart, Keyboard Player
 ---
 
@@ -26,12 +26,12 @@ Before I start with the review proper, just a small disclaimer. The following is
 Hindustan Unilever, as most of you probably would know, is one of the top Fast Moving Consumer Goods (FMCGs) companies globally. It has been around for quite a lot of time, and is quite deep rooted our homes, through their many brands. A few of them just off the top of my head would be Lifebuoy, Pears, Close Up, Knorr, Kwality Walls, Lakme, Bru etc.
 
 {: .center}
-![Office View](.././images/dhanvi_pic1.png "Office View"){:style="max-height: 500px;"}
+![Office View](https://i.imgur.com/1JEfbKs.png "Office View"){:style="max-height: 500px;"}
 
 HUL is a fantastic place to work. This mainly stems from the fact that the work culture is great, where innovation is nurtured, and good work appreciated. The support you will get as an intern is unprecedented, with people from all over the world helping you achieve what will probably be a very ambitious set of objectives. When it comes to getting work done, there is little hierarchy, where you will find yourself presenting your findings and plans to the most senior executives (we’re talking people who handle the whole of South Asia), and they will always make time for you and contribute to your progress. Overall, it is a company that respects it’s employees, and the work life reflects that
 
 {: .center}
-![Team Pic](.././images/dhanvi_pic2.png "Team Pic"){:style="max-height: 500px;"}
+![Team Pic](https://i.imgur.com/64Xr0Cm.png "Team Pic"){:style="max-height: 500px;"}
 
 All work and no play makes Jack a dull boy, and the HUL office reflects that: Swimming pool, gym, and even a jam room with a lot of instruments (being musically inclined, this was a gold mine :P). There are no assigned desks, so you can work anywhere in the campus, or even from home, with a lax-ish WFH policy. There were also multiple parties, which were super fun. 
 
@@ -48,7 +48,7 @@ As a mechanical engineer in the RnD division at HUL, I was already a bit apprehe
 My project, to be put succinctly, was to digitise the research operations for soap bars. This involved designing a Data Acquisition system, putting the hardware in place to collect this data reliably, and then a Data Modelling system which would build the required model, to predict the properties of the soap bar at each stage of the process just from the formulation details and the process/utility parameters. For this, I had to build and train a neural net which would do this. Since my model depended on my data, which in turn depends on my system, the work was circular and iterative, involving me to make changes to one based on the requirements / constraints of the other. In the end, I came up with a proof of principle for the entire end-to-end system, and that was that.
 
 {: .center}
-![Me](.././images/dhanvi_pic3.png "Me"){:style="max-height: 500px;"}
+![Me](https://i.imgur.com/RqpmXOW.png "Me"){:style="max-height: 500px;"}
 
 During the normal course of work, I would interact with process analytics experts in the UK, along with Data Systems Firms with my proposals. This gives you a lot of exposure, and a reality check. You think you’ve understood a problem, but when an expert starts probing you, you will realise the depths of the issue. Since this is not in it’s core workstream, you will not really have to code any of these solutions on your own. You just need to make a small scale version (which I used an online service for), and figure out some third party to scale. So if you’re looking for cutting edge coding work, you’ve barked up the wrong tree. But this internship will give you a flavour of project management, and taking ownership for one’s work and driving it to completion
 

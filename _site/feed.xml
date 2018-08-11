@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="https://blog.wncc-iitb.org/feed.xml" />
 <link rel="alternate" type="text/html" href="https://blog.wncc-iitb.org" />
-<updated>2018-08-09T19:51:40+05:30</updated>
+<updated>2018-08-11T11:16:12+05:30</updated>
 <id>https://blog.wncc-iitb.org/</id>
 <author>
   <name>Web and Coding Club</name>
@@ -102,11 +102,11 @@
 
 &lt;p&gt;Hindustan Unilever, as most of you probably would know, is one of the top Fast Moving Consumer Goods (FMCGs) companies globally. It has been around for quite a lot of time, and is quite deep rooted our homes, through their many brands. A few of them just off the top of my head would be Lifebuoy, Pears, Close Up, Knorr, Kwality Walls, Lakme, Bru etc.&lt;/p&gt;
 
-&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;.././images/dhanvi_pic1.png&quot; alt=&quot;Office View&quot; title=&quot;Office View&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://i.imgur.com/1JEfbKs.png&quot; alt=&quot;Office View&quot; title=&quot;Office View&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;HUL is a fantastic place to work. This mainly stems from the fact that the work culture is great, where innovation is nurtured, and good work appreciated. The support you will get as an intern is unprecedented, with people from all over the world helping you achieve what will probably be a very ambitious set of objectives. When it comes to getting work done, there is little hierarchy, where you will find yourself presenting your findings and plans to the most senior executives (we’re talking people who handle the whole of South Asia), and they will always make time for you and contribute to your progress. Overall, it is a company that respects it’s employees, and the work life reflects that&lt;/p&gt;
 
-&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;.././images/dhanvi_pic2.png&quot; alt=&quot;Team Pic&quot; title=&quot;Team Pic&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://i.imgur.com/64Xr0Cm.png&quot; alt=&quot;Team Pic&quot; title=&quot;Team Pic&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;All work and no play makes Jack a dull boy, and the HUL office reflects that: Swimming pool, gym, and even a jam room with a lot of instruments (being musically inclined, this was a gold mine :P). There are no assigned desks, so you can work anywhere in the campus, or even from home, with a lax-ish WFH policy. There were also multiple parties, which were super fun.&lt;/p&gt;
 
@@ -122,7 +122,7 @@
 
 &lt;p&gt;My project, to be put succinctly, was to digitise the research operations for soap bars. This involved designing a Data Acquisition system, putting the hardware in place to collect this data reliably, and then a Data Modelling system which would build the required model, to predict the properties of the soap bar at each stage of the process just from the formulation details and the process/utility parameters. For this, I had to build and train a neural net which would do this. Since my model depended on my data, which in turn depends on my system, the work was circular and iterative, involving me to make changes to one based on the requirements / constraints of the other. In the end, I came up with a proof of principle for the entire end-to-end system, and that was that.&lt;/p&gt;
 
-&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;.././images/dhanvi_pic3.png&quot; alt=&quot;Me&quot; title=&quot;Me&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://i.imgur.com/RqpmXOW.png&quot; alt=&quot;Me&quot; title=&quot;Me&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;During the normal course of work, I would interact with process analytics experts in the UK, along with Data Systems Firms with my proposals. This gives you a lot of exposure, and a reality check. You think you’ve understood a problem, but when an expert starts probing you, you will realise the depths of the issue. Since this is not in it’s core workstream, you will not really have to code any of these solutions on your own. You just need to make a small scale version (which I used an online service for), and figure out some third party to scale. So if you’re looking for cutting edge coding work, you’ve barked up the wrong tree. But this internship will give you a flavour of project management, and taking ownership for one’s work and driving it to completion&lt;/p&gt;
 
@@ -154,7 +154,7 @@
 
 &lt;p&gt;As I sit on my desk in Amazon Bangalore Office, with two widescreen monitors and a Macbook pro, I wonder what am I doing. I mean it’s 12:30 in the afternoon here, I just walked in half an hour ago, and I’m writing my intern blog. What I’m really doing is waiting for a review on a wiki I wrote describing two possible approaches to the problem given to me to solve for the duration of my internship. It’s the third time I have reminded my mentor to review it, but he doesn’t seem interested at all and is busy in back to back meetings since yesterday. Maybe that’s what it’s like to work in large MNCs, lots of planning and little implementation. Here goes my two cents on the Great Customer-centric Amazon Company summer internship.&lt;/p&gt;
 
-&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;.././images/meet_1.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;http://summerblog.insightiitb.org/wp-content/uploads/2017/06/amazon1-1.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;selection-process&quot;&gt;Selection process&lt;/h1&gt;
 &lt;p&gt;Amazon comes to IITB one, two months into the season when the intern fever has settled down. It was open for all departments and had no CPI cut-off, which is how an EE Dual 7-pointer got in :P. For a person like me, that was enough to make me apply for the intern. The interview was like any other Software Dev interview would be – an online selection test on DSA and multiple one-on-one rounds of DSA questions. The interviewers we had were pretty indulgent and interactive while asking questions, up to the point where it almost felt like a discussion.
@@ -168,7 +168,7 @@ The internship starts a bit late into the summer holidays, so you get about 2 we
 Well, then came the development environment setup. They never make that one an easy job. It took two long days to install all the tools, acquire permissions in multiple groups (Unix groups), set up a cloud desktop, and get it all working together. It actually seems pretty impressive, because when you think about it they have set up a pretty robust system which any company of this scale would require. In the first week we found out about how development actually gets done in Amazon. We found out about what pipelines they use for stage-by-stage deployment, how they test at every stage, and how mishaps are handled. Yea, its not as simple as just pushing code to the server. There’s Alpha and Beta stages in between which every code change has to pass through. And they have automated tests hooked up to every stage, which if they fail will stop the deployment automatically!
 It all feels surreal when you think about the sheer scale any single piece of code will be affecting. As an example, let me tell you about my team.&lt;/p&gt;
 &lt;h1 class=&quot;center&quot; id=&quot;my-team&quot;&gt;My team&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&quot;.././images/meet-2.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://summerblog.insightiitb.org/wp-content/uploads/2017/06/amazon2-1.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Transport Financial Systems, or TFS as its more passionately called, manages the accounting of all financial aspects of the transport expenses Amazon makes. Transport here refers to shipping of Amazon products, from anywhere to anywhere else, done by multiple different couriers. Millions of products are shipped everyday, generating hundreds of thousands of invoices from couriers. These all need to be properly audited and accounted for, and then paid. But we aren’t accountants, we are developers who automate this whole accounting process! While going through the codebase (or deep-diving as they like to call it), we were able to look at their databases and workflow queues each with millions of entries of product-wise accounting of every little cost which went into transport of every product. Surreal, right!&lt;/p&gt;
 
@@ -210,7 +210,7 @@ In summary, I’d just like to say that apart from the work, I’ve been pretty 
 
 &lt;p&gt;The University of Chicago is one of the best places in the world to study pure science, mathematics, arts and business. Our ex-RBI governor Raghuram Rajan is a professor at UChicago’s business school. Unlike most colleges, it does not have clear-cut engineering programs. It’s a really amazing campus, with ivy covered buildings, archaic architecture, huge gardens and the most stunning libraries I’ve ever seen. The college is extremely academics oriented, and you will rarely find the libraries even half-empty. Since the streets and surrounding neighbourhoods aren’t the safest areas, you won’t find much activity on the streets after it gets dark. Luckily, UChicago houses one of the largest private police force in the world, which patrols the campus throughout the day.&lt;/p&gt;
 
-&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;.././images/kalpesh-1.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;http://summerblog.insightiitb.org/wp-content/uploads/2017/06/uchicago-ivy-768x432.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;ttic--work&quot;&gt;TTIC &amp;amp; Work&lt;/h1&gt;
 
@@ -218,7 +218,7 @@ In summary, I’d just like to say that apart from the work, I’ve been pretty 
 
 &lt;p&gt;I’m working at the SLATTIC group, guided by three awesome professors. It’s a really diverse set of people and I love listening to their PhD stories and their discussions on AI and Computer Science. My project is on modern end-to-end Automatic Speech Recognition systems, the heart of today’s Siri and Cortana. I’m trying to build encoder architectures to speed up the training procedure for Connectionist Temporal Classification, one of the two state-of-the-art techniques for ASR systems. Unfortunately, ASR is a hard problem and training neural networks for speech recognition can often be challenging and tedious. Typical state-of-the-art architectures take 4-5 days to train and need expensive GPUs to make this possible. Luckily, TTIC has a really good GPU cluster and automation, which I’ve been trying to make the most of in the last couple of weeks. Along with the project, I’m trying to make some tools to increase research efficiency. A typical day of work here generally starts with reading an ASR paper, attending a talk / reading group, excellent discussions during lunch and a lot of programming (and debugging!). Towards the evening, I spend 1-2 quality hours ideating or reading in the Mansueto Library, my favourite place at UChicago.&lt;/p&gt;
 
-&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;.././images/kalpesh-2.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;http://summerblog.insightiitb.org/wp-content/uploads/2017/06/mansueto-768x432.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;accommodation-transport-and-food&quot;&gt;Accommodation, Transport and Food&lt;/h1&gt;
 
@@ -230,11 +230,11 @@ In summary, I’d just like to say that apart from the work, I’ve been pretty 
 
 &lt;p&gt;Chicago is popularly called “The Windy City”. It’s got really unpredictable ever-changing weather, and I’ve had my share of severe thunderstorms, Mumbai-like heat and of course the crazy winds. While often defamed for its crime rate, most neighbourhoods are pretty safe. Located on Lake Michigan, Chicago is known for its bold architecture and skyline. So far I’ve visited Millennium Park, Shedd Aquarium, Navy Pier and the brilliant Architecture River Cruise. I also visited a really expensive theatre to watch Pirates of the Caribbean (big mistake). Hopefully I will hopefully cover all the major tourist attractions here by the end of my trip including a long cycling tour along Lake Michigan!&lt;/p&gt;
 
-&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;.././images/kalpesh-3.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;http://summerblog.insightiitb.org/wp-content/uploads/2017/06/sears_tower-768x432.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;While a lot of things are much easier in USA, I get the feeling that people don’t like being dependent on others here. The streets are generally lonely on weekends and lots of residents tell me that the social life is really lacking here. Most shops generally close by 6pm, and most of the neighbourhoods are pretty deserted after sunset, making it too unsafe to loiter on the streets at midnight – something I’m so used to doing at IITB! Nevertheless, downtown Chicago is full of activity and tourists 24*7 with concerts and shows happening all year long.&lt;/p&gt;
 
-&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;.././images/kalpesh-4.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;http://summerblog.insightiitb.org/wp-content/uploads/2017/06/museum_campus-768x432.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
 
@@ -273,7 +273,7 @@ The group is led by Prof. Thomas Schmidt, and I would quote his homepage&lt;/p&g
 
 &lt;h1 id=&quot;about-the-work&quot;&gt;About the Work&lt;/h1&gt;
 &lt;h4 id=&quot;my-work-space&quot;&gt;My Work Space&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;.././images/cheeku_intern_pic.jpg&quot; alt=&quot;My Work Space&quot; title=&quot;My Work Space&quot; style=&quot;height: 500px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://2.bp.blogspot.com/-K5CH88QcZ0k/WWdvmiDn16I/AAAAAAAAQhc/CdKSLfDGN8QVZFIpzEm45VoZK0ZAhHNrQCLcBGAs/s320/19893900_1421292907947140_658677690_o.jpg&quot; alt=&quot;My Work Space&quot; title=&quot;My Work Space&quot; style=&quot;height: 500px;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;My broad area of specialization was Non-Equilibrium Transport. I studied the transport of non-interacting fermions through a quantum dot in tunneling contact with two (or more) reservoirs at varying chemical potentials. More specificially, I attempted to calculate time-dependent current-current correlation or “noise” for the current flowing through the system.&lt;/p&gt;
 
@@ -331,13 +331,13 @@ Every Tuesday, me and Anuj went to a local Board Games meetup. We went to some o
 
 &lt;p&gt;All my co-workers are extremely approachable. One of them was nice enough to even give me his own team jacket (thanks Tarun)! The managers, even at the highest levels have a good idea about the specifics of what everyone is working on. You will often have co-workers randomly challenging you to a game of carrom or foosball when you need a break. Not to be missed are the facilities for gymming, badminton, basketball, cricket, in addition to the tons of Xboxs lying around at every corner of the office.&lt;/p&gt;
 
-&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;.././images/tomar_pic1.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://www.insightiitb.org/wp-content/uploads/2016/06/tomar.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;bangalored&quot;&gt;Bangalored!&lt;/h2&gt;
 
 &lt;p&gt;I had been allotted two very helpful mentors who guided me throughout the intern. One of them was possibly the coolest mentor an intern at Microsoft ever got (PM for more). I was also blessed to have been allotted the team which was most prolific in outings. I went out with my team for several lunches, dinners, a movie, and even an IPL match!&lt;/p&gt;
 
-&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;.././images/tomar_pic2.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;center&quot;&gt;&lt;img src=&quot;https://www.insightiitb.org/wp-content/uploads/2016/06/WP_20160620_17_34_58_Rich_LI.jpg&quot; alt=&quot;Gear&quot; title=&quot;Gear&quot; style=&quot;max-height: 500px;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The cherry on the cake was that since the intern is in Bangalore, where the largest chunk of students from IITB is interning, I went out with friends almost every weekend. There are several places to see around Bangalore – Coorg, Nandi Hills, Ooty; the list is endless. We managed to explore many of them. Bangalore is a trekker’s paradise. You can rent a bike/car and head out on the weekends on your own with traveller blogs and Google Bing Maps coming to your rescue. There are also quite a few tour operators who will provide you with guides (recommended for medium to difficult treks). The weather in Bangalore is pleasant like that of Mumbai. It rained frequently throughout my intern right from May beginning.&lt;/p&gt;
 
